@@ -29,5 +29,5 @@ signed main() {
             return 0;
         }
     }
-    cout << -1 << '\n';
+    cout << -1 << "\n";
 }
